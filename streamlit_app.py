@@ -8,4 +8,4 @@ st.image("IMG-20250527-WA0048.jpg")
 st.write("dan kiky")
 st.image("IMG-20250527-WA0061.jpg")
 st.image("IMG-20250527-WA0060.jpg")
-st.title("# membangun kisah antara papaw dan kiky
+st.title("# membangun kisah antara papaw dan kiky")
